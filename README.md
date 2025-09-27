@@ -13,22 +13,22 @@ This project aims to automate the detection of bias in news articles using advan
 
 ## Directory Structure
 root/
-├── data/
-│ ├── raw/
-│ └── processed/
-├── notebooks/
-├── scripts/
-├── results/
-├── README.md
-├── requirements.txt
-└── LICENSE
+─ data/
+ ├── raw/
+ └── processed/
+─ notebooks/
+─ scripts/
+─ results/
+─ README.md
+─ requirements.txt
+─ LICENSE
 
 
 ## Installation
-Clone the repository and install required dependencies:
-git clone https://github.com/ismail-omer/news-sentiment-bias-analysis.git
-cd news-sentiment-bias-analysis
-pip install -r requirements.txt
+- Clone the repository and install required dependencies:
+- git clone https://github.com/ismail-omer/news-sentiment-bias-analysis.git
+- cd news-sentiment-bias-analysis
+- pip install -r requirements.txt
 
 
 ## Usage
@@ -48,7 +48,7 @@ Result files and visualizations are saved in `/results/`.
 Contributions and suggestions are welcome! Please submit issues or pull requests.
 
 ## License
-Specify your preferred license (e.g., MIT License).
+MIT License
 
 ## References
 - Kaggle media bias datasets
